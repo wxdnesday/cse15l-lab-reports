@@ -74,4 +74,4 @@ In order to log out of the remote server, you can either use `Ctrl-D` or run the
 
 ![Image](images/lab1/exit.png)
 
-By following these steps, you should be able to successfully log in remotely to your CSE 15L account on terminal remotely!
+By following these steps, you should be able to successfully log in to your CSE 15L account on terminal remotely!
