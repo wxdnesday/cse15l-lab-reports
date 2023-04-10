@@ -33,7 +33,10 @@ Once downloaded, you should be met with this screen:
 
 ## Step 3
 
-Next, we will be installing `git` in order to remotely log in to our  student account. For users operating on **Windows**, follow the steps [here](https://gitforwindows.org/) in order to use `git bash` on Visual Studio Code which can also be demonstrated [here](https://stackoverflow.com/a/50527994). For users operating on a **MacOS** operating system, `git` should already be installed.
+Next, we will be installing `git` in order to remotely log in to our student account. Since I am operating on a **MacOS** operating system, I do not need to download `git` since it should already be automatically installed.
+
+However, for users operating on **Windows**, follow the steps [here](https://gitforwindows.org/) in order to use `git bash` on Visual Studio Code which can also be demonstrated [here](https://stackoverflow.com/a/50527994).
+
 
 After installing `git`, open the terminal in VSCode using either Ctrl/Command +, or manually open the Terminal, locating on the bottom of the VSCode Application.
 
